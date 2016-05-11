@@ -1,0 +1,28 @@
+name: Thandi Puren
+favicon: null
+layout_spectrum: 0.33731246273964643
+typography_spectrum: 0.9761750185862184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3616629592142999
+  lightness: 0.7920960208866745
+  saturation: 0.369325278326869
+  rhythmicContrast: 0.12478035362437367
+purpose: []
