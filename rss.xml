@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thandi Puren]]></title>
+        <description><![CDATA[Thandi Puren]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 02 Jun 2016 19:02:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In Light of Is short film trailer]]></title>
+            <description><![CDATA[<article><h1>In Light of Is short film trailer</h1><p>The official trailer for the short film 'In Light of Is' - a magical realism drama about two sisters who find a flicker of magic in the world. Starring Taryn Sudding and Thandi Puren. Written and directed by Sabine NLD Bittle. Produced by Jennifer Mostert at Sinkwa Productions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a445bbf3fe9b823521571093ff642648d9b50f5c.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JyR0EAtJ_CM</link>
+            <guid isPermaLink="false">50d5aa55-1002-4181-b829-44c65e9d3529</guid>
+            <pubDate>Thu, 02 Jun 2016 19:02:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
