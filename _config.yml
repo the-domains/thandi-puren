@@ -2,12 +2,13 @@ name: Thandi Puren
 favicon: null
 layout_spectrum: 0.33731246273964643
 typography_spectrum: 0.9761750185862184
+title: Thandi Puren
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-78701694-1
   facebook: null
   twitter: null
 opengraph:
